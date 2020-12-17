@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\build\\intermediates\\res\\merged\\release\\mipmap_ic_launcher.png.flat",
+        "source": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\src\\main\\res\\mipmap\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Johannes\\AndroidStudioProjects\\WebView\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

@@ -1,0 +1,4 @@
+space/rexum/klasse/BuildConfig.java
+ space.rexum.klasse.BuildConfig
+space/rexum/klasse/MainActivity.java
+ space.rexum.klasse.MainActivity
